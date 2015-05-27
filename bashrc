@@ -1,3 +1,4 @@
-export PATH=$PATH:/usr/local/bin
+alias sublime="/opt/sublime_text/sublime_text"
 
-PS1="\[\033[35m\]\t\[\033[m\]-\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$ "
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
