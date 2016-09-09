@@ -83,3 +83,4 @@ setopt +o incappendhistory
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 fortune
+print $'\n\n'
